@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nothing Widgets</string>
+    <string name="w_digital">Digital Clock</string>
+    <string name="w_large">Digital Clock Large</string>
+    <string name="w_analog">Analog Clock</string>
+    <string name="w_date">Date</string>
+    <string name="w_battery">Battery</string>
+</resources>
